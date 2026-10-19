@@ -5,7 +5,7 @@ export const CONFIG = {
   APP_TITLE: 'Assessoria DC & HC',
 
   // Google Cloud Console → APIs e serviços → Credenciais → ID de cliente OAuth (Aplicação Web).
-  GOOGLE_CLIENT_ID: 'COLAR_AQUI_O_CLIENT_ID.apps.googleusercontent.com',
+  GOOGLE_CLIENT_ID: '605602246474-f7a1oqb3mj7h5h588uur5gcir9jul6hv.apps.googleusercontent.com',
 
   // Pasta partilhada no Google Drive onde vivem todos os ficheiros do dashboard.
   DRIVE_FOLDER_ID: '12cRd-CK0ADC7RCnBuJs_hNrRqKxkZYU0',
